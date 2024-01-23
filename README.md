@@ -1,8 +1,7 @@
 # Apobind
 Apo structures for protein-ligand complexes in PDBbind V. 2019
 
-Data download link : https://iiitaphyd-my.sharepoint.com/:f:/g/personal/rishal_aggarwal_research_iiit_ac_in/EhcNboS7dVZGh-et1qg1yg0BKrdMzJzN9z8T5gAcTUQJqw?e=Lj3oJq
-
+Data download link : https://pitt-my.sharepoint.com/:f:/g/personal/ria43_pitt_edu/EtwrtGBrS49MuezZtoxRQ3UBoJTHvPPGh8IV3JjzPpT91A?e=Asx29i
 
 You'd find that the folders with apo structures would have the following files:
 
